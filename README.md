@@ -1,6 +1,6 @@
 # quiz
 
-Tutorial
+A simple project for Flutter tutorial
 
 ## Getting Started
 
