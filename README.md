@@ -1,4 +1,4 @@
-# quiz
+# Simple Quiz Application
 
 A simple project for Flutter tutorial
 
